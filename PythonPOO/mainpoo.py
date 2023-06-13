@@ -20,7 +20,7 @@ def main():
     print(vars(al1))
     print(vars(al2))
     print("------Modificar atributos publicos--------")
-    al1.edad = 999 #No hay encapsulamiento
+    al1.edad = 999 
      """
     al1 = Alumno("Diego", 19, "Economia")
     al1.facultad = "Fes aragon EDOMEX"  # Se agrega un atributo
